@@ -1,2 +1,7 @@
-# demo-constructora-industrial-del-plata-s-a
-Demo web para Constructora Industrial del Plata S.A. — diseñada por eterlab.
+# Constructora Industrial del Plata S.A.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
